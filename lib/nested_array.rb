@@ -26,7 +26,7 @@ def assembled_matrix
     ORGANIC_PRODUCE
     ]
     storage_room
-  }
+  
   
 end
 
